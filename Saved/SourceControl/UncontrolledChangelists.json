@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Akhil Reddy/Blueprint_assignment/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Akhil Reddy/Blueprint_assignment/Content/Assignment/BP_Coins.uasset",
+				"C:/Akhil Reddy/Blueprint_assignment/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/SH/3IVSHCV3QLC6QPCKGBMKWS.uasset",
+				"C:/Akhil Reddy/Blueprint_assignment/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CY/CBLSWFTPJ4Y0LCMFFKAAPQ.uasset",
+				"C:/Akhil Reddy/Blueprint_assignment/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LW/BZ7DILSW2OSXMTMP0JU39S.uasset",
+				"C:/Akhil Reddy/Blueprint_assignment/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/89/UTQW43NZ7MYK3EOV06374O.uasset",
+				"C:/Akhil Reddy/Blueprint_assignment/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/ON/JCJ7TFY1JTNHILY5Q26PHB.uasset",
+				"C:/Akhil Reddy/Blueprint_assignment/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/GI/NYAHYXUB2F3FPBH5QD52M2.uasset",
+				"C:/Akhil Reddy/Blueprint_assignment/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/9P/HIKDH2NJHFXFS2ERLEK2Z7.uasset",
+				"C:/Akhil Reddy/Blueprint_assignment/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QD/U088YZEPB47PX3L9RITW0J.uasset",
+				"C:/Akhil Reddy/Blueprint_assignment/Content/Assignment/BP_Pickable.uasset"
+			]
+		}
+	]
+}
